@@ -19,4 +19,3 @@ persona=("Juan",12,"Admin")
 
 lista2 x=tail x
 lista3 x = head x
-           
